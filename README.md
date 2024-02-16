@@ -1,1 +1,1 @@
-# Predictive-Customer-Churn-Analysis-for-a-Subscription-Based-Business
+# Predictive Customer Churn Analysis for a Subscription Based Business
