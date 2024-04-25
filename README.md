@@ -1,8 +1,7 @@
 # Predictive Customer Churn Analysis for a Subscription Based Business
 
-About Dataset
-Context
-A fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3.
+
+**Context:** A fictional telco company that provided home phone and Internet services to 7043 customers in California in Q3.
 
 Data Description
 7043 observations with 33 variables
